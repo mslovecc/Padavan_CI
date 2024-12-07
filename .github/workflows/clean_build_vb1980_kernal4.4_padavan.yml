@@ -1,4 +1,4 @@
-name: Build vb1980's kernal4.4 Padavan
+name: Clean Build vb1980's kernal4.4 Padavan
 
 on:
   workflow_dispatch:
